@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prathamesh Powar</h1>
-<h3 align="center">Full-Stack Developer | Passionate about building interactive, user-friendly web applications.Skilled in MERN Stack with experience in real-time apps, REST APIs, and responsive UI design. Constantly learning new technologies to deliver clean, scalable, and impactful solutions.</h3>
+<h3 align="center">Full-Stack Developer | Passionate about building interactive, user-friendly web applications. Skilled in MERN Stack with experience in real-time apps, REST APIs, and responsive UI design. Constantly learning new technologies to deliver clean, scalable, and impactful solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathameshpowar-dan&label=Profile%20views&color=0e75b6&style=flat" alt="prathameshpowar-dan" /> </p>
 
